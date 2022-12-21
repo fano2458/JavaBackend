@@ -1,1 +1,1 @@
-# web
+# Simple web application
